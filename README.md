@@ -46,15 +46,23 @@ npx prisma db push
 
 # Start server (auto-reload)
 npm run dev
+```
 
-Open: http://localhost:3000 → you should see:
-✅ Bitespeed Identity Reconciliation API is running
-Test endpoint: http://localhost:3000/identify
+Open: http://localhost:3000 → you should see:  
+✅ Bitespeed Identity Reconciliation API is running  
+
+Test endpoint:  
+http://localhost:3000/identify  
+
 Example request (Thunder Client / Postman / curl):
 
+```json
 {
   "email": "doc@hillvalley.edu",
   "phoneNumber": "5551234567"
 }
+```
 
-<img width="1919" height="1079" alt="Screenshot 2026-03-03 072918" src="https://github.com/user-attachments/assets/98459ad7-bbdd-4f1f-a16f-dc187163d170" />
+## Output Screenshot
+
+![API Running Screenshot](https://github.com/user-attachments/assets/98459ad7-bbdd-4f1f-a16f-dc187163d170)
