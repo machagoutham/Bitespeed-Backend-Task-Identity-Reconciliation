@@ -57,4 +57,4 @@ Example request (Thunder Client / Postman / curl):
   "phoneNumber": "5551234567"
 }
 
-<img width="1919" height="1079" alt="Screenshot 2026-03-03 072918" src="https://github.com/user-attachments/assets/217aed8b-4701-4ec7-adf4-e8dcb46bf999" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-03 072918" src="https://github.com/user-attachments/assets/98459ad7-bbdd-4f1f-a16f-dc187163d170" />
